@@ -18,7 +18,7 @@
     {"nomw":"Carlos Eduardo Santos", "cargo": "call center", "id": 3, "salario": 2100},
     {"nomw":"Leandra Nina Alves", "cargo": "atendente", "id": 4, "salario": 1500}
   ],
-  "clientes cadastrados": [
+  "clientes_cadastrados": [
     {"nome":"Vitor Alves de Souza", "cpf": "111.111.111-11", "id": 1, "telefone":"2199945-4599"},
     {"nome":"Mikael Oliveira Santana", "cpf": "222.222.222-22", "id": 2, "telefone":"2192399-2988"},
     {"nome":"Pedro Manoel Nunes Castro", "cpf": "333.333.333-33", "id": 3, "telefone":"2199899-9977"},
