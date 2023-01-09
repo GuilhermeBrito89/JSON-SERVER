@@ -14,8 +14,11 @@ O servidor deveria estar hospedado (deploy) no render.com ou em qualquer outro s
 # ROTAS:
 
 MEDICAMENTOS
+
 PERFUMARIA
+
 FUNCIONARIOS
+
 CLIENTES CADASTRADOS
 
 
