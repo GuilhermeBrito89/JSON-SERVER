@@ -1,27 +1,27 @@
 
   {
   "medicamentos": [
-    {"nome": "dipirona 500mg", "quantidade": 100, "id": 1, "preco": "R$4,99"},
-    {"nome": "cloridato de bromexima", "quantidade": 17, "id": 2, "preco": "R$14,99"},
-    {"nome": "koide d", "quantidade": 21, "id": 3, "preco": "R$32,99"},
-    {"nome": "epocler 10ml", "quantidade": 30, "id": 4, "preco": "R$3,29"}
+    { "id": 1, "nome": "dipirona 500mg", "quantidade": 100, "preco": "R$4,99"},
+    { "id": 2, "nome": "cloridato de bromexima", "quantidade": 17, "preco": "R$14,99"},
+    { "id": 3, "nome": "koide d", "quantidade": 21, "preco": "R$32,99"},
+    { "id": 4, "nome": "epocler 10ml", "quantidade": 30, "preco": "R$3,29"}
   ],
   "perfumaria": [
-    {"nome": "shampoo 400ml", "quantidade": 15, "id": 1, "preço": "R$13,99"},
-    {"nome": "condicionador 310ml", "quantidade": 14, "id": 2, "preço": "R$15,49"},
-    {"nome": "creme de pentear 300ml", "quantidade": 11, "id": 3, "preço": "R$10,99"},
-    {"nome": "sabonete 80g", "quantidade": 20, "id": 4, "preço": "R$2,29"}
+    {"id": 1, "nome": "shampoo 400ml", "quantidade": 15,  "preço": "R$13,99"},
+    {"id": 2, "nome": "condicionador 310ml", "quantidade": 14, "preço": "R$15,49"},
+    {"id": 3, "nome": "creme de pentear 300ml", "quantidade": 11,  "preço": "R$10,99"},
+    {"id": 4, "nome": "sabonete 80g", "quantidade": 20,  "preço": "R$2,29"}
   ],
   "funcionarios": [
-    {"nome":"Lohann de Nobrega Carvalho", "cargo": "balconista", "id": 1, "salario": 3900},
-    {"nomw":"Guilherme de Brito Ramos", "cargo": "gerente", "id": 2, "salario": 6000},
-    {"nomw":"Carlos Eduardo Santos", "cargo": "call center", "id": 3, "salario": 2100},
-    {"nomw":"Leandra Nina Alves", "cargo": "atendente", "id": 4, "salario": 1500}
+    {"id": 1, "nome":"Lohann de Nobrega Carvalho", "cargo": "balconista", "salario": 3900},
+    {"id": 2, "nome":"Guilherme de Brito Ramos", "cargo": "gerente", "salario": 6000},
+    {"id": 3, "nome":"Carlos Eduardo Santos", "cargo": "call center",  "salario": 2100},
+    {"id": 4, "nome":"Leandra Nina Alves", "cargo": "atendente",  "salario": 1500}
   ],
   "clientes_cadastrados": [
-    {"nome":"Vitor Alves de Souza", "cpf": "111.111.111-11", "id": 1, "telefone":"2199945-4599"},
-    {"nome":"Mikael Oliveira Santana", "cpf": "222.222.222-22", "id": 2, "telefone":"2192399-2988"},
-    {"nome":"Pedro Manoel Nunes Castro", "cpf": "333.333.333-33", "id": 3, "telefone":"2199899-9977"},
-    {"nome":"Marcia Gibertii Savia", "cpf": "444.444.444-44", "id": 4, "telefone":"2145799-8766"}
+    {"id": 1, "nome":"Vitor Alves de Souza", "cpf": "111.111.111-11", "telefone":"2199945-4599"},
+    {"id": 2, "nome":"Mikael Oliveira Santana", "cpf": "222.222.222-22", "telefone":"2192399-2988"},
+    {"id": 3, "nome":"Pedro Manoel Nunes Castro", "cpf": "333.333.333-33", "telefone":"2199899-9977"},
+    { "id": 4, "nome":"Marcia Gibertii Savia", "cpf": "444.444.444-44", "telefone":"2145799-8766"}
   ]  
   }
